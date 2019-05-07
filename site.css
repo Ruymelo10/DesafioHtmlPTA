@@ -1,0 +1,41 @@
+.head{
+    background-color: #252239;
+    width: 100%;
+    top: 0;
+    position: absolute;
+    height: 80px;
+    display: inline-flex;
+}
+img#logo{
+
+}
+h1#nomeEmpresa{
+    color: white;
+
+}
+nav#navbar{
+   
+}
+nav#navbar ul{
+    list-style: none;
+    color: white;
+    display: inline-flex;
+    padding: 0;
+    margin: 0;
+    
+}
+nav#navbar li{
+    margin: 10px;
+}
+.footer{
+    background-color: #252239;
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+    display: inline-flex;
+}
+footer#footer ul{
+    list-style: none;
+    color: white;
+    display: inline-flex;
+}
