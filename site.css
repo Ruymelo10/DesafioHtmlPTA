@@ -47,22 +47,30 @@ nav#navbar li{
     color: white;
     justify-content: space-around;
 }
-.footer ul{
-    list-style: none;
-    color: white;
-    display: inline-flex;
-    height: 40px;
-    justify-content: space-between;
-    width: 200px;
-
-}
-.footer li{
-    margin: 10px;
-    font-size: 13px;
+.redes{
+    display: flex;
+    justify-content: space-around;
+    width: 150px;
     align-self: center;
+    
+}
+
+
+.redes img{
+    margin: 5px;
+    max-width: 20px;
+    max-height: 20px;
+    width: auto;
+    height: auto;
 }
 .footer h1{
     font-size: 13px;
     font-weight: normal;
     align-self: center;
+}
+#copyright{
+    max-width: 11px;
+    max-height: 11px;
+    width: auto;
+    height: auto;
 }
