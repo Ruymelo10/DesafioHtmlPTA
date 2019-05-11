@@ -1,0 +1,44 @@
+.head{
+    background-color: #252239;
+    width: 100%;
+    top: 0;
+    position: absolute;
+    height: 40px;
+    display: inline-flex;
+    justify-content: space-around;
+}
+body{
+display: block;
+width: 100%;
+height: 100%;
+}
+img#logo{
+    width: 30px;
+    height: 30px;
+}
+.logonome{
+    color: white;
+    display: inline-flex;
+}
+.logonome h1{
+    font-size: 15px;
+    align-self: center;
+}
+.logonome img{
+    align-self: center;
+}
+
+nav#navbar ul{
+    list-style: none;
+    color: white;
+    display: inline-flex;
+    height: 40px;
+    justify-content: space-between;
+    width: 200px;
+    
+}
+nav#navbar li{
+    margin: 10px;
+    font-size: 13px;
+    align-self: center;
+}
