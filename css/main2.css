@@ -23,3 +23,26 @@
     display: block;
     padding: 5px;
 }
+.cardspace{
+    text-align: center;
+    display: flex;
+}
+.cards{
+    border: 1px solid skyblue;
+    border-radius: 10px;
+    flex: 1;
+    margin: 0px 5% 13% 5%;
+}
+.titulo {
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+.titulo h1{
+    position: relative;
+    opacity: 0.5;
+}
+.titulo h2{
+    position: absolute;
+    margin-top: 0;
+}
