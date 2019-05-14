@@ -23,6 +23,7 @@ img#logo{
 .logonome h1{
     font-size: 15px;
     align-self: center;
+    max-width: 50px;
 }
 .logonome img{
     align-self: center;

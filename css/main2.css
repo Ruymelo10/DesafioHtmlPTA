@@ -24,8 +24,8 @@
     padding: 5px;
 }
 .cardspace{
-    text-align: center;
     display: flex;
+    justify-content: space-evenly;
 }
 .cards{
     border: 1px solid skyblue;
@@ -36,13 +36,28 @@
 .titulo {
     display: flex;
     align-items: center;
-    justify-content: center; 
+    justify-content: center;
+    margin-top: 20px;
 }
 .titulo h1{
     position: relative;
     opacity: 0.5;
+    font-size: 6rem;
+    margin: auto;
+    color: lightslategray;
 }
 .titulo h2{
     position: absolute;
     margin-top: 0;
+    font-size: 1.2rem;
+    max-width: 12%;
+    text-align: right;
+}
+.cards h3{
+    position: relative;
+    font-size: 0.7rem;
+    text-align: left;
+    margin-left: 5%;
+    width: 90%;
+    color: lightslategrey;
 }
