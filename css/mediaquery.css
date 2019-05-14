@@ -1,0 +1,35 @@
+@media only screen and (max-width: 750px){
+    .logonome{
+        margin: auto;
+        justify-content: center;
+    }
+    #navbar{
+        display: none;
+    }
+    .main1{
+        background-position: 60% 10%;
+    }
+    .colunatexto h1{
+        font-size: 2.5rem;
+        text-align: center;
+    }
+    .colunatexto h2 span{
+        display: block;
+    }
+    .cardspace{
+        flex-direction: column;
+        align-items: center;
+    }
+    .footer{
+        flex-direction: column-reverse;
+    }
+    .footer h1{
+        width: 50%;
+        text-align: center;
+        margin: auto;
+    }
+    .redes{
+        margin: auto;
+    }
+    
+}

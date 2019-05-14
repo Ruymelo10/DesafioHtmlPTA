@@ -1,12 +1,12 @@
 .main2{
     position: relative;
-    height: 90vh;
     display: grid;
 }
 .main2texto{
     display: flex;
     justify-self: center;
     align-items: center;
+    margin: 5%;
 }
 .main2texto h1{
     font-size: 2rem;
@@ -21,13 +21,13 @@
 }
 .cardspace{
     display: flex;
-    justify-content: space-evenly;
+    margin: 0% 5% 5% 5%;
 }
 .cards{
     border: 1px solid skyblue;
     border-radius: 10px;
     flex: 1;
-    margin: 0% 8% 0% 8%;
+    margin: 5%;
     height: 50vh;
 }
 .titulo {
