@@ -28,7 +28,8 @@
     border-radius: 10px;
     flex: 1;
     margin: 5%;
-    height: 50vh;
+    height: 300px;
+    width: 200px;
 }
 .titulo {
     display: flex;
