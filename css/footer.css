@@ -1,12 +1,9 @@
 .footer{
     background-color: #252239;
-    height: 40px;
-    position: relative;
     width: 100%;
     display: inline-flex;
     color: white;
     justify-content: space-between;
-    bottom: 0;
 }
 .redes{
     align-self: center;
